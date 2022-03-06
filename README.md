@@ -1,11 +1,7 @@
 ### Olá! Eu sou a Amanda Del Grecco Santana Simões
 
-- 🚀 Em transição de carreira!
-- 🌱 Estudante de Programação
-- 🧠 Mestranda em Psicologia (UFSCar)
-- 🖥️ Especialista em Computação Aplicada à Educação (ICMC - USP)
-- 🧠 Psicóloga (UNIP)
-- 🖥️ Técnica em Informática (ETEC Paulino Botellho)
+##
+
 <div align="center">
   <a href="https://github.com/grecco-amanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grecco-amanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
