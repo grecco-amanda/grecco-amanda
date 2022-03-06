@@ -1,11 +1,8 @@
-### Olá! Eu sou a Amanda Del Grecco Santana Simões
+### Olá! Eu sou a Amanda Del Grecco Santana Simões, estudante de programação na PrograAmando, mestranda em Psicologia (UFSCar), Especialista em Computação Aplicada à Educação (ICMC USP), Psicóloga (UNIP) e Técnica em Informática (ETEC Paulino Botelho)
 
 <div align="justify">
-Estudante de programação na PrograAmando, mestranda em Psicologia (UFSCar), Especialista em Computação Aplicada à Educação (ICMC USP), Psicóloga (UNIP) e Técnica em Informática (ETEC Paulino Botelho). <br><br>
   
-Sempre tive interesse na área de TI e, durante o desenvolvimento do meu TCC para a pós graduação, desenvolvi e validei um Sistema Tutor Inteligente (STI) para treinar Habilidades Sociais em tempos de pandemia. Tenho interesse em aprofundar o conhecimento em programação para desenvolver sistemas, aplicativos e outros recursos que permitam que qualquer indivíduo obtenha melhoras em seus mais variados repertórios e que também auxiliem o terapeuta em sua prática clínica. Antes da pandemia, me arrisquei em alguns cursos online para adquirir habilidades em lógica de programação. Durante a pandemia, continuei estudando lógica de programação e coloquei em prática os exercícios no visualg. Também aprendi o básico de JavaScript, CSS e HTML com as meninas do PrograMaria. Em fevereiro deste ano iniciei os estudos em Python. <br>
-  
-Pretendo aprofundar o conhecimento na programação, estudar novas linguagens e atuar, futuramente, como Full Stack Developer. Além disso, pretendo cursar uma segunda graduação na área da Computação. Bora estudar até o fim da vida! 🤘😍
+Sempre tive interesse na área de TI e, durante o desenvolvimento do meu TCC para a pós graduação, desenvolvi e validei um Sistema Tutor Inteligente (STI) para treinar Habilidades Sociais em tempos de pandemia. Tenho interesse em aprofundar o conhecimento em programação para desenvolver sistemas, aplicativos e outros recursos que permitam que qualquer indivíduo obtenha melhoras em seus mais variados repertórios e que também auxiliem o terapeuta em sua prática clínica. Antes da pandemia, me arrisquei em alguns cursos online para adquirir habilidades em lógica de programação. Durante a pandemia, continuei estudando lógica de programação e coloquei em prática os exercícios no visualg. Também aprendi o básico de JavaScript, CSS e HTML com as meninas do PrograMaria. Em fevereiro deste ano iniciei os estudos em Python. Pretendo aprofundar o conhecimento na programação, estudar novas linguagens e atuar, futuramente, como Full Stack Developer. Além disso, pretendo cursar uma segunda graduação na área da Computação. Bora estudar até o fim da vida! 🤘😍
 </div>
 
 ##
