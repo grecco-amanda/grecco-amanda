@@ -26,3 +26,6 @@ Sempre tive interesse na área de TI e, durante o desenvolvimento do meu TCC par
   
  ![Snake animation](https://github.com/grecco-amanda/grecco-amanda/blob/output/github-contribution-grid-snake.svg)
   </div>
+   
+  ##### <h3> Visitor Count: </h3>
+![Visitor Count](https://profile-counter.glitch.me/grecco-amanda/count.svg)
