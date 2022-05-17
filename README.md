@@ -1,4 +1,4 @@
-### Olá! Eu sou a Amanda Del Grecco Santana Simões
+### Olá! Eu sou a Amanda!
 
 <div align="justify">
   
